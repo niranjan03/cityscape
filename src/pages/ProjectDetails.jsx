@@ -35,7 +35,7 @@ const ProjectDetails = () => {
 
             {/* BreadCrumb */}
             <Breadcrumb 
-                pageTitle="Property Details"
+                pageTitle="Products Details"
                 pageName={title}
             />
 
@@ -43,7 +43,7 @@ const ProjectDetails = () => {
             <ProjectDetailsSection/>
 
             {/* Cta */}
-            <Cta ctaClass=""/>
+            {/* <Cta ctaClass=""/> */}
 
             {/* Footer */}
             <Footer/>

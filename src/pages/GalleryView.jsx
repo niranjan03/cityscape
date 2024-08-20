@@ -15,6 +15,8 @@ import MessageTwo from '../components/MessageTwo';
 import BlogTwo from '../components/BlogTwo';
 import Footer from '../common/Footer';
 import PageTitle from '../common/PageTitle';
+import Video from '../components/Video';
+import { videos } from '../data/HomeTwoData/HomeTwoData';
 
 const GalleryView = () => {
     return (
@@ -48,14 +50,13 @@ const GalleryView = () => {
                     pageName="Gallery"
                 />
 
-                
-
                 {/* About Two */}
                 {/* <AboutTwo/> */}
 
                 {/* Gallery */}
                 <Gallery/>
 
+                <Video videos={videos} />
 
                 {/* Footer */}
                 <Footer/>

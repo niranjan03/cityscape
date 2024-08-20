@@ -51,7 +51,7 @@ const Contact = () => {
             <ContactUsSection/>
 
             {/* Cta */}
-            <Cta ctaClass=""/>
+            {/* <Cta ctaClass=""/> */}
 
             {/* Footer */}
             <Footer/>

@@ -28,9 +28,9 @@ const Gallery = () => {
                                 <div className={` ${galleryIndex === 1 || galleryIndex === 2 ? 'col-lg-8 col-sm-7 col-xs-6' : 'col-lg-4 col-sm-5 col-xs-6'}`} key={galleryIndex}>
                                     <div className="gallery-thumb">
                                         <img src={gallery.image} alt="Gallery Image" className="cover-img"/>
-                                        <Link to={gallery.image} className="gallery-thumb__link gallery-popup">
+                                        {/* <Link to={gallery.image} className="gallery-thumb__link gallery-popup">
                                             {gallery.icon}
-                                        </Link>
+                                        </Link> */}
                                     </div>
                                 </div>
                             )

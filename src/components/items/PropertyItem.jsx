@@ -41,24 +41,24 @@ const PropertyItem = ({ property, itemClass, iconsClass, btnClass, badgeText, ba
                     <Link to={propertyURL} state={{ thumb, title, desc, price}} className="link">
                         <img src={thumb} alt="" className="cover-img"/>
                     </Link> 
-                    {
+                    {/* {
                         renderBadge && (
                             <span className={badgeClass}>{badgeText}</span>
                         )
-                    }
+                    } */}
                 </div>
                 <div className="property-item__content">    
-                    <h6 className="property-item__price">{price}
+                    {/* <h6 className="property-item__price">{price}
                         <span className="day">{day}</span> 
-                    </h6>
+                    </h6> */}
                     <h6 className="property-item__title"> 
                         <Link to={propertyURL} state={{ thumb, title, desc, price}} className="link">{title}</Link> 
                     </h6>
-                    <p className="property-item__location d-flex gap-2"> 
+                    {/* <p className="property-item__location d-flex gap-2"> 
                         <span className={`icon ${iconsClass}`}> {locationIcon}</span>
                         {location}
-                    </p>
-                    <div className="property-item__bottom flx-between gap-2">
+                    </p> */}
+                    {/* <div className="property-item__bottom flx-between gap-2">
                         <ul className="amenities-list flx-align">
                             {
                                 amenities.map((amenity, amenityIndex) => {
@@ -79,9 +79,9 @@ const PropertyItem = ({ property, itemClass, iconsClass, btnClass, badgeText, ba
                                 </Link>
                             )
                         }
-                    </div>
+                    </div> */}
 
-                    {
+                    {/* {
                         btnRenderBottom &&
                         (
                             <Link to={propertyURL} state={{ thumb, title, desc, price}} className={`simple-btn ${btnClass}`}>
@@ -89,7 +89,7 @@ const PropertyItem = ({ property, itemClass, iconsClass, btnClass, badgeText, ba
                                 <span className="icon-right"> <i className="fas fa-arrow-right"></i> </span> 
                             </Link>
                         )
-                    }
+                    } */}
                 </div>
             </div>   
         </>

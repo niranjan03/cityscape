@@ -16,6 +16,7 @@ import Faq from '../components/Faq';
 import BlogThree from '../components/BlogThree';
 import PageTitle from '../common/PageTitle';
 import Portfolio from '../components/Portfolio';
+import About from '../components/About'
 
 
 const HomeOne = () => {
@@ -48,7 +49,7 @@ const HomeOne = () => {
                 <BannerThree/>
 
                 {/* About Three */}
-                <AboutThree/>
+                <About/>
 
                 {/* Property Type Three */}
                 <PropertyTypeThree/>

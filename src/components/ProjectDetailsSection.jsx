@@ -58,12 +58,12 @@ const ProjectDetailsSection = () => {
                                             )
                                         })
                                     }
-                                    <li className="project-sidebar__item">
+                                    {/* <li className="project-sidebar__item">
                                         <span className="project-sidebar__text font-12">Date</span>
                                         <h6 className="project-sidebar__title font-16 fw-semibold mb-0"> {formattedDate}</h6>
-                                    </li>
+                                    </li> */}
                                 </ul>
-                                <ul className="social-share-list style-two mt-lg-5 mt-4">
+                                {/* <ul className="social-share-list style-two mt-lg-5 mt-4">
                                     {
                                         socialLists.map((socialList, socialListIndex) => {
                                             return (
@@ -75,7 +75,7 @@ const ProjectDetailsSection = () => {
                                             )
                                         })
                                     }
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>

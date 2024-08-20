@@ -124,7 +124,7 @@ export const navMenus = [
     },
     {
       text: "Product",
-      path: "/project",
+      path: "/product",
     },
     {
         text: "Gallery",

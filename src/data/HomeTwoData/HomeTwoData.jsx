@@ -353,6 +353,10 @@ export const apartmentTds= [
     },
 ]
 
-
+import v1 from '../../../public/assets/videos/v1.mp4'
+export const videos= [
+  { src: {v1} },
+  { src: {v1} },
+]
 
 
