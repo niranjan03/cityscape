@@ -46,7 +46,7 @@ const ContactUsSection = () => {
                                 <span className="text-gradient fw-semibold">Contact us</span> 
                             </span>
                             <h2 className="section-heading__title">Do you have any question? </h2>
-                            <p className="section-heading__desc">For your car we will do everything  advice, repairs and maintenance. We are the some preferred choice by many car owners because</p>
+                            <p className="section-heading__desc">We offer competitive pricing on a wide range of custom blinds, designed to elevate your space with style and functionality.</p>
                         </div>
                         <div className="contact-form__form">
 

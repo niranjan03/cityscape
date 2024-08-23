@@ -37,8 +37,8 @@ const Portfolio = () => {
         <>
             <section className="portfolio padding-t-120 padding-b-60 overflow-hidden">
                 <div className="section-heading">
-                    <span className="section-heading__subtitle"> <span className="text-gradient fw-semibold">Latest Portfolio</span> </span>
-                    <h2 className="section-heading__title">Optimum Homes & Properties Realty Experts</h2>
+                    <span className="section-heading__subtitle"> <span className="text-gradient fw-semibold"></span>View the Blinds </span>
+                    <h2 className="section-heading__title">Optimum Homes by Installing Blinds from our Experts</h2>
                 </div>
                 <div className="portfolio-wrapper">
                     <Slider {...settings}>

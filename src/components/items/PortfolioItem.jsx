@@ -9,7 +9,7 @@ const PortfolioItem = ({ portfolio }) => {
             <div className="portfolio-item__thumb">
                 <img src={thumb} alt="" className="cover-img"/>
             </div>
-            <div className="portfolio-item__content">
+            {/* <div className="portfolio-item__content">
                 <Link to="/portfolio-details" className="btn btn-icon"> 
                     <span className="text-gradient line-height-0">
                         {btnIcon}
@@ -21,7 +21,7 @@ const PortfolioItem = ({ portfolio }) => {
                     </h6>
                     <p className="portfolio-item__desc">{desc}</p>
                 </div>
-            </div>
+            </div> */}
         </div>    
     );
 };

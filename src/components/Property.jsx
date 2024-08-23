@@ -19,9 +19,9 @@ const Property = () => {
 
                     <SectionHeading 
                         headingClass="style-left style-dark flx-between align-items-end gap-3"  
-                        subtitle="Latest Blinds"
+                        subtitle="Customization Options"
                         subtitleClass="bg-white" 
-                        title="Prestige Property Management property for you" 
+                        title="We offer extensive customization options for our Blinds" 
                         renderDesc={false}
                         desc=""
                         renderButton={true}

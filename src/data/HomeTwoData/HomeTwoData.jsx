@@ -244,10 +244,10 @@ export const floorTabPanels= [
 
 
 // Gallery Data
-import galleryImage1 from '../../../public/assets/images/thumbs/gallery-img1.png'
-import galleryImage2 from '../../../public/assets/images/thumbs/gallery-img2.png'
-import galleryImage3 from '../../../public/assets/images/thumbs/gallery-img3.png'
-import galleryImage4 from '../../../public/assets/images/thumbs/gallery-img4.png'
+import galleryImage1 from '../../../public/assets/images/img/roman-gallery.png'
+import galleryImage2 from '../../../public/assets/images/img/monsoon-gallery.png'
+import galleryImage3 from '../../../public/assets/images/img/chick-gallery.png'
+import galleryImage4 from '../../../public/assets/images/img/roller-gallery.png'
 export const galleries= [
     {
         image: galleryImage1,

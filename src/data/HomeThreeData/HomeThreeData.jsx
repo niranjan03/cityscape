@@ -3,10 +3,10 @@ import React from 'react';
 // Banner Three
 import BannerThreeThumb from '../../../public/assets/images/thumbs/banner-new.png'
 export const bannerThreeContent = {
-    subtitle: 'Stylish Curtains',
-    title: 'Curtains That Reflect Your ',
-    shapedTitle: 'Style',
-    desc: 'Upgrade your space with our stylish, versatile window curtains. Perfect for adding elegance and enhancing any room.',
+    subtitle: 'Stylish Blinds',
+    title: 'Blind That Reflect ',
+    shapedTitle: 'Your Style',
+    desc: 'Welcome to New Jyoti Decor exclusive collection of Blinds, where style meets functionality. With a wide range of customization options and styles, youll find the ideal Blinds to transform your space.',
     thumb: BannerThreeThumb
 }
 
@@ -111,7 +111,7 @@ export const messageThreeContents = {
     icon: messageThreeIcon,
     text: 'Need help?',
     number: '9833270303 / 9769623317',
-    desc: 'Real estate is a lucrative ind involves the selling and a reproperties. It encompasses residential'
+    desc: 'Contact us to receive a personalized quote based on your specifications, ensuring you get the best quality and value.'
 }
 
 

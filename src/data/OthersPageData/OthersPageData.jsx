@@ -1054,37 +1054,41 @@ export const projectItems = [
 
 export const challengeLists = [
     {
-        text: 'Unleash the Potential of your Interiors'
+        text: 'Balancing Style and Functionality:'
     },
     {
-        text: 'Aliquam eros justo, pos uere loborre loborti'
+        text: 'Sustainability'
     },
     {
-        text: 'Unleash the Potential of your Interiors'
+        text: 'Customization'
     },
     {
-        text: 'MBA rotter of the litter university in united state'
+        text: 'Technological Integration'
     },
     {
-        text: 'BSC, Engineering of institute of trade and science'
+        text: 'Quality Control'
     },
     {
-        text: 'MBA rotter of the litter university united state'
+        text: 'Cost Efficiency'
     },
 ]
 
 export const projectSidebarLists = [
     {
-        text: 'TIMELESS ELEGANCE',
-        title: ''
+        text: 'Soft Folds, Sophisticated Style',
+        title: 'Roman Blinds'
     },
     {
-        text: 'LIGHT COLOR',
-        title: '9833270303'
+        text: 'Sleek Design, Versatile Functionality',
+        title: 'Roller Blinds'
     },
     {
-        text: 'EASY MAINTENANCE',
-        title: 'Blinds'
+        text: 'Weather-Resistant Protection for Outdoor Spaces',
+        title: 'Monsoon Blinds'
+    },
+    {
+        text: 'Natural Warmth with Eco-Friendly Charm',
+        title: 'Chick Blinds'
     }
 ]
 // ========================= Project Page Data End =========================

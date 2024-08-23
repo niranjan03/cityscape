@@ -16,9 +16,9 @@ const MessageThree = () => {
                                     headingClass="section-heading style-left style-flex mb-0"  
                                     subtitle="Get a quote"
                                     subtitleClass="" 
-                                    title="They chose perfect the property" 
+                                    title="Request Your Custom Blinds Quote Today" 
                                     renderDesc={false}
-                                    desc="Real estate is a lucrative ind involves the selling and a reproperties. It encompasses residential"
+                                    desc="Our team at New Jyoti Decor is ready to assist you in finding the perfect blinds tailored to your needs."
                                     renderButton={false}
                                     renderBesideDesc={true}
                                     buttonClass="btn-main"

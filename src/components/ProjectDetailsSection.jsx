@@ -31,8 +31,9 @@ const ProjectDetailsSection = () => {
                                 {/* <p className="project-details__desc font-18">{location.state.desc.slice(0, 250)}</p>
                                 <p className="project-details__desc font-18">{location.state.desc.slice(251, 900)}</p> */}
                                 
-                                <h6 className="border-title">Project challeng</h6>
-                                <p className="project-details__desc font-18">Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis  viverra laoreet augue mattis ferment ullamcorer viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper ere viverra .Aliquam eros justo, posuere lobortis non, viverra Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere </p>
+                                <h6 className="border-title">
+                                Challenges in Blinds</h6>
+                                <p className="project-details__desc font-18">The blinds industry faces several challenges that require constant innovation and adaptation. One of the primary challenges is balancing aesthetics with functionality; consumers demand blinds that are not only stylish but also durable, easy to operate, and effective in controlling light and privacy. Additionally, with increasing awareness of sustainability, manufacturers are pressured to source eco-friendly materials without compromising on quality. Another challenge is the need for customization, as customers expect blinds tailored to their specific window sizes and design preferences. Meeting these diverse demands while maintaining cost efficiency and production timelines can be complex and demanding.</p>
 
                                 <ul className="text-list-two">
                                     {

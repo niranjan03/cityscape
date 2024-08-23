@@ -13,7 +13,7 @@ const Gallery = () => {
                     headingClass=""  
                     subtitle="Our Gallery"
                     subtitleClass="" 
-                    title="Unlocking the door to your a the new home" 
+                    title="Add a Touch of Luxury with Our Designer Blinds" 
                     renderDesc={false}
                     desc=""
                     renderButton={false}

@@ -407,10 +407,10 @@ export const counts = [
 
 
 // portfolio  Data
-import portfolioThumb1 from '../../../public/assets/images/thumbs/portfolio1.png'; 
-import portfolioThumb2 from '../../../public/assets/images/thumbs/portfolio2.png'; 
-import portfolioThumb3 from '../../../public/assets/images/thumbs/portfolio3.png'; 
-import portfolioThumb4 from '../../../public/assets/images/thumbs/portfolio4.png'; 
+import portfolioThumb1 from '../../../public/assets/images/img/monsoon-pro.png'; 
+import portfolioThumb2 from '../../../public/assets/images/img/chick-pro.png'; 
+import portfolioThumb3 from '../../../public/assets/images/img/roman-pro.png'; 
+import portfolioThumb4 from '../../../public/assets/images/img/roller-pro.png'; 
 export const portfolios = [
     {
         thumb: portfolioThumb1,
