@@ -15,7 +15,7 @@ import OffCanvas from '../common/OffCanvas';
 const AboutUs = () => {
     return (
         <>
-            <PageTitle title="New Jyoti Decor - About Us" />
+            <PageTitle title="About Us - New Jyoti Decor" />
             <OffCanvas/>
             <MobileMenu/>
 

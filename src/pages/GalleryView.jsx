@@ -21,7 +21,7 @@ const GalleryView = () => {
     return (
         <>
         
-        <PageTitle title="New Jyoti Decor - Gallery" />
+        <PageTitle title="Gallery - New Jyoti Decor" />
             
             <OffCanvas/>
             <MobileMenu/>

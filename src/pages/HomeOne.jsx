@@ -23,7 +23,7 @@ const HomeOne = () => {
     return (
         <>
         
-        <PageTitle title="New Jyoti Decor" />
+        <PageTitle title="Home - New Jyoti Decor" />
             <OffCanvas/>
             <MobileMenu/>
             

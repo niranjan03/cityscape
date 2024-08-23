@@ -11,7 +11,7 @@ import MobileMenu  from '../common/MobileMenu';
 const Product = () => {
     return (
         <>
-        <PageTitle title="New Jyoti Decor - Blinds" />
+        <PageTitle title="Blinds - New Jyoti Decor" />
         <OffCanvas/>
             <MobileMenu/>
 

@@ -12,7 +12,7 @@ import MobileMenu from '../common/MobileMenu';
 const Contact = () => {
     return (
         <>
-        <PageTitle title="CityScape - Contact Us" />
+        <PageTitle title="Contact Us - New Jyoti Decor" />
         <OffCanvas/>
         <MobileMenu/>
 

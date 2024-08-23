@@ -4117,7 +4117,7 @@ button.slick-next {
     color: hsl(var(--white));
 }
 .breadcrumb__item span{
-    text-transform: capitalize;
+    text-transform: capitalize !important;
 }
 
 @media screen and (max-width: 991px) {

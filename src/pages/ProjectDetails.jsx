@@ -15,7 +15,7 @@ const ProjectDetails = () => {
 
     return (
         <>
-        <PageTitle title="New Jyoti Decor - Blinds" />
+        <PageTitle title={title} />
         <OffCanvas/>
             <MobileMenu/>
 
