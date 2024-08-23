@@ -35,7 +35,7 @@ const About = () => {
                                     headingClass="style-left"  
                                     subtitle="About Us"
                                     subtitleClass="" 
-                                    title="Stay with us feel at home Your perfect stay awaits" 
+                                    title="Elevating Your Home with Expertly Designed Blinds" 
                                     renderDesc={false}
                                     desc=""
                                     renderButton={false}

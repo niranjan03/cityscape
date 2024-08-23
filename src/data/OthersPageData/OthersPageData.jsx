@@ -199,23 +199,28 @@ export const addressContents = [
 export const categoryLists = [
     {
         link: '/blog',
-        text: 'Prime Investments',
+        text: 'Venetian Blinds',
         number: '(1)'
     },
     {
         link: '/blog',
-        text: 'ProHome Finders',
-        number: '(8)'
+        text: 'Verical Blinds',
+        number: '(1)'
     },
     {
         link: '/blog',
-        text: 'SmartHouse Agency',
-        number: '(3)'
+        text: 'Roman Blinds',
+        number: '(1)'
     },
     {
         link: '/blog',
-        text: 'Secure Property Partners',
-        number: '(5)'
+        text: 'Roller Blinds',
+        number: '(1)'
+    },
+    {
+        link: '/blog',
+        text: 'Chick blinds',
+        number: '(1)'
     },
 ]
 
@@ -992,59 +997,59 @@ export const propertyTables = [
 
 
 // ========================= Project Page Data End =========================
-import projectItemThumb1 from '../../../public/assets/images/thumbs/project-img1.png';
-import projectItemThumb2 from '../../../public/assets/images/thumbs/project-img2.png';
-import projectItemThumb3 from '../../../public/assets/images/thumbs/project-img3.png';
-import projectItemThumb4 from '../../../public/assets/images/thumbs/project-img4.png';
+import projectItemThumb1 from '../../../public/assets/images/img/Rolling-blind.png';
+import projectItemThumb2 from '../../../public/assets/images/img/Monsoon-blind.png';
+import projectItemThumb3 from '../../../public/assets/images/img/Chick-blind.png';
+import projectItemThumb4 from '../../../public/assets/images/img/Roman-blind.png';
 export const projectItems = [
     {
         id: 1,
         thumb: projectItemThumb1,
-        title: 'Turning Dreams into Addresses Home State',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+        title: 'Roller Blinds',
+        desc: 'Roller Blinds are a sleek, minimalist window treatment that rolls up neatly when not in use, providing a clean, unobtrusive look. Available in a wide array of fabrics, including blackout, light-filtering, and sheer options, they cater to various lighting and privacy needs. Their simple design makes them versatile, fitting seamlessly into any décor, from modern to traditional. Roller Blinds are easy to operate and maintain, offering both functionality and style. Whether you want to block out light completely or gently diffuse it, these blinds provide a practical, elegant solution for any room in your home.',
     },
     {
         id: 2,
         thumb: projectItemThumb2,
-        title: 'Your journey homeownership starts here too',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+        title: 'Monsoon Blinds',
+        desc: 'Monsoon Blinds are specifically designed to withstand harsh weather conditions, particularly during the rainy season. Made from water-resistant and durable materials like PVC or heavy-duty fabric, these blinds protect your outdoor spaces such as balconies, patios, and verandas from rain, wind, and debris. They are easy to roll up when not in use and can be quickly deployed during unexpected downpours. Monsoon Blinds also help in maintaining visibility and light while keeping the area dry, making them a practical and stylish solution for maintaining outdoor comfort and functionality throughout the rainy season.',
     },
     {
         id: 3,
         thumb: projectItemThumb3,
-        title: 'Opening Doors to Your Dreams For Living',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+        title: 'Chick Blinds',
+        desc: 'Chick Blinds, also known as bamboo or woven wood blinds, introduce a natural, rustic element to your décor with their eco-friendly materials and organic textures. These blinds are crafted from sustainable resources like bamboo, reeds, or jute, offering an earthy, warm aesthetic that complements bohemian, coastal, or rustic interiors. Chick Blinds provide light filtering that creates a soft, ambient glow, while still maintaining privacy. Their unique, handcrafted appearance adds character and depth to any space, making them an excellent choice for those who appreciate natural beauty and sustainable living in their home design.',
     },
     {
         id: 4,
         thumb: projectItemThumb4,
-        title: 'Home is Where Your Story Begins',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+        title: 'Roman Blinds',
+        desc: 'Roman Blinds bring a touch of sophistication to any room with their elegant fabric folds that create a soft, layered look when raised. Available in a wide range of fabrics, from light-filtering to blackout, these blinds offer excellent control over light and privacy while adding a decorative element to your windows. Roman Blinds combine the luxurious feel of drapery with the practicality of shades, making them a versatile choice for both casual and formal settings. Their customizability allows you to choose patterns, colors, and textures that perfectly complement your décor, creating a cozy, refined atmosphere.',
     },
-    {
-        id: 5,
-        thumb: projectItemThumb1,
-        title: 'Building Trust, One Home at a Tim',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
-    },
-    {
-        id: 6,
-        thumb: projectItemThumb2,
-        title: 'Brick by Brick Your Dream Home Awaits',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
-    },
-    {
-        id: 7,
-        thumb: projectItemThumb3,
-        title: 'Guiding You Home with Experienc',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
-    },
-    {
-        id: 8,
-        thumb: projectItemThumb4,
-        title: 'A Tradition of Trust in Real Estate',
-        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
-    },
+    // {
+    //     id: 5,
+    //     thumb: projectItemThumb1,
+    //     title: 'Building Trust, One Home at a Tim',
+    //     desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+    // },
+    // {
+    //     id: 6,
+    //     thumb: projectItemThumb2,
+    //     title: 'Brick by Brick Your Dream Home Awaits',
+    //     desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+    // },
+    // {
+    //     id: 7,
+    //     thumb: projectItemThumb3,
+    //     title: 'Guiding You Home with Experienc',
+    //     desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+    // },
+    // {
+    //     id: 8,
+    //     thumb: projectItemThumb4,
+    //     title: 'A Tradition of Trust in Real Estate',
+    //     desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+    // },
 ]
 
 export const challengeLists = [
@@ -1070,16 +1075,16 @@ export const challengeLists = [
 
 export const projectSidebarLists = [
     {
-        text: 'Client',
-        title: 'Sandi leo rakiul'
+        text: 'TIMELESS ELEGANCE',
+        title: ''
     },
     {
-        text: '150000 USD',
-        title: 'consultation real estate'
+        text: 'LIGHT COLOR',
+        title: '9833270303'
     },
     {
-        text: 'Category',
-        title: 'Planing, Real Estate'
+        text: 'EASY MAINTENANCE',
+        title: 'Blinds'
     }
 ]
 // ========================= Project Page Data End =========================

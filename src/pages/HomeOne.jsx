@@ -16,14 +16,14 @@ import Faq from '../components/Faq';
 import BlogThree from '../components/BlogThree';
 import PageTitle from '../common/PageTitle';
 import Portfolio from '../components/Portfolio';
-import About from '../components/About'
-
+import About from '../components/About';
+import Property from '../components/Property';
 
 const HomeOne = () => {
     return (
         <>
         
-        <PageTitle title="CityScape - Home Three" />
+        <PageTitle title="New Jyoti Decor" />
             <OffCanvas/>
             <MobileMenu/>
             
@@ -52,10 +52,11 @@ const HomeOne = () => {
                 <About/>
 
                 {/* Property Type Three */}
-                <PropertyTypeThree/>
+                {/* <PropertyTypeThree/> */}
 
                 {/* Property Two */}
-                <PropertyTwo/>
+                <Property/>
+                {/* <PropertyTwo/> */}
 
                 {/* Portofolio  */}
                 <Portfolio/>

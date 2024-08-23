@@ -27,12 +27,12 @@ const CommonSidebar = ({ renderProperties, renderSearch, renderTags }) => {
                     <SidebarCategoryList/>
                 </div>
 
-                <div className="common-sidebar">
+                {/* <div className="common-sidebar">
                     <h6 className="common-sidebar__title"> Recent Post </h6>
                     <SidebarRecentPost/>
-                </div>
+                </div> */}
 
-                {
+                {/* {
                     renderProperties && (
                         <div className="common-sidebar">
                             <h6 className="common-sidebar__title"> Properties </h6>
@@ -58,7 +58,7 @@ const CommonSidebar = ({ renderProperties, renderSearch, renderTags }) => {
                             </ul>
                         </div>
                     )
-                }
+                } */}
             </div>   
         </>
     );

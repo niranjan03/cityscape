@@ -8,10 +8,11 @@ const Cta = (props) => {
             <div className="container container-two">
                 <div className="cta-box flx-between gap-2">
                     <div className="cta-content">
-                        <h2 className="cta-content__title">Subscribe To Our <span className="text-gradient">Newsletter</span> </h2>
-                        <p className="cta-content__desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                        <h2 className="cta-content__title">Still Confused? <span className="text-gradient">Talk to an Expert</span> </h2>
+                        <p className="cta-content__desc"><span >Call/Whatapp no:- <a href="tel:++919833270303" className="text-gradient">9833270303</a></span>
+                        <br /> <span >Email :- <a href="mailto:vidyrathipathak@gmail.com" className="text-gradient">vidyrathipathak@gmail.com</a></span></p>
 
-                        <NewsletterForm formClass="max-w-unset" inputClass="bg-danger" iconClass="text-gradient"/>
+                        {/* <NewsletterForm formClass="max-w-unset" inputClass="bg-danger" iconClass="text-gradient"/> */}
                         
                     </div>
                     <div className="cta-content__thumb d-xl-block d-none">

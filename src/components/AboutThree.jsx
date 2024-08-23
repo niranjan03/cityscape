@@ -33,9 +33,9 @@ const AboutThree = () => {
                                     headingClass="style-left"  
                                     subtitle="About Us"
                                     subtitleClass="bg-gray-100" 
-                                    title="Unlocking the door to your a the new home" 
+                                    title="Crafted Blinds, Perfect SpacesCreating Custom Blinds to Transform Your Living Spaces" 
                                     renderDesc={true}
-                                    desc="Real estate is a lucrative industry that involves the buying selling and renting of properties. It encompasses residential commercial and industrial properties Real estate agents play a crucial role in facilitating real estate"
+                                    desc="Whether you're looking for modern minimalism or timeless elegance, our custom-made options allow you to personalize your blinds to perfectly complement your home. At New Jyoti Decor, we’re committed to enhancing your living space with blinds that are as beautiful as they are practical."
                                     renderButton={false}
                                     buttonClass="btn-main"
                                     buttonText="View More"
@@ -53,7 +53,7 @@ const AboutThree = () => {
                                         })
                                     }
                                 </ul>
-                                <div className="about-button">
+                                {/* <div className="about-button">
                                     <Button
                                         btnLink="/about" 
                                         btnClass="btn btn-outline-main bg-white" 
@@ -61,7 +61,7 @@ const AboutThree = () => {
                                         spanClass="icon-right" 
                                         iconClass="fas fa-arrow-right" 
                                     />
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

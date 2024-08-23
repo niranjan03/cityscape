@@ -38,9 +38,11 @@ import aboutContentIcon from '../../../public/assets/images/icons/about-icon.svg
 export const aboutContent = {
     thumb: aboutContentThumb,
     icon: aboutContentIcon,
-    title: 'Your Dream Home Awaits',
-    desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties'
+    title: 'Crafting Quality Blind with Care',
+    desc: 'At New Jyoti Decor, we specialize in crafting high-quality window blinds that seamlessly blend style, durability, and functionality. As a leading manufacturer, we take pride in our meticulous craftsmanship, creating each blind in-house to ensure that every detail meets our high standards. Our collection features a wide range of designs, colors, and materials, offering something for every taste and space.'
 }
+
+
 
 
 // Property Data 
@@ -60,127 +62,127 @@ export const properties = [
     {
         id: 1,
         thumb: propertyThumb1,
-        price: '$300.00',
-        day: '/per day',
-        title: 'Turning Dreams into Addresses Home State ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
-        locationIcon: <i className="fas fa-map-marker-alt"></i>,
-        location: '66 Broklyant, New York America',
-        amenities: [
-            {
-                icon: <i className="fas fa-bed"></i>,
-                text: '2 Beds',
-            },
-            {
-                icon: <i className="fas fa-bath"></i>,
-                text: ' 1 Baths ',
-            }
-        ],
-        btnText: 'Book Now',
-        dataSort: 'Newest',
-        dataStatuses: 'Sell',
-        dataTypes: 'Houses',
-        dataLocations: "Bangladesh",
+        // price: '$300.00',
+        // day: '/per day',
+        title: 'Venetian Blinds',
+        desc: 'Venetian Blinds offer a classic, versatile design with adjustable horizontal slats that allow you to control light and privacy with precision, making them perfect for any room.',
+        // locationIcon: <i className="fas fa-map-marker-alt"></i>,
+        // location: '66 Broklyant, New York America',
+        // amenities: [
+        //     {
+        //         icon: <i className="fas fa-bed"></i>,
+        //         text: '2 Beds',
+        //     },
+        //     {
+        //         icon: <i className="fas fa-bath"></i>,
+        //         text: ' 1 Baths ',
+        //     }
+        // ],
+        // btnText: 'Book Now',
+        // dataSort: 'Newest',
+        // dataStatuses: 'Sell',
+        // dataTypes: 'Houses',
+        // dataLocations: "Bangladesh",
     },
     {
         id: 2,
         thumb: propertyThumb2,
-        price: '$450.00',
-        day: '/per day',
-        title: 'Your journey home ownership starts here too ',
+        // price: '$450.00',
+        // day: '/per day',
+        title: 'Verical Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
-        locationIcon: <i className="fas fa-map-marker-alt"></i>,
-        location: '66 Broklyant, New York America',
-        amenities: [
-            {
-                icon: <i className="fas fa-bed"></i>,
-                text: '4 Beds',
-            },
-            {
-                icon: <i className="fas fa-bath"></i>,
-                text: ' 2 Baths ',
-            }
-        ],
-        btnText: 'Book Now',
-        dataSort: 'Best Seller',
-        dataStatuses: 'Buy',
-        dataTypes: 'Apartments',
-        dataLocations: "Japan",
+        // locationIcon: <i className="fas fa-map-marker-alt"></i>,
+        // location: '66 Broklyant, New York America',
+        // amenities: [
+        //     {
+        //         icon: <i className="fas fa-bed"></i>,
+        //         text: '4 Beds',
+        //     },
+        //     {
+        //         icon: <i className="fas fa-bath"></i>,
+        //         text: ' 2 Baths ',
+        //     }
+        // ],
+        // btnText: 'Book Now',
+        // dataSort: 'Best Seller',
+        // dataStatuses: 'Buy',
+        // dataTypes: 'Apartments',
+        // dataLocations: "Japan",
     },
     {
         id: 3,
         thumb: propertyThumb3,
-        price: '$500.00',
-        day: '/per day',
-        title: 'Opening Doors to Your Dreams For Living ',
+        // price: '$500.00',
+        // day: '/per day',
+        title: 'Roman Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
-        locationIcon: <i className="fas fa-map-marker-alt"></i>,
-        location: '66 Broklyant, New York America',
-        amenities: [
-            {
-                icon: <i className="fas fa-bed"></i>,
-                text: '4 Beds',
-            },
-            {
-                icon: <i className="fas fa-bath"></i>,
-                text: ' 3 Baths ',
-            }
-        ],
-        btnText: 'Book Now',
-        dataSort: 'Best Match',
-        dataStatuses: 'Rent',
-        dataTypes: 'Office',
-        dataLocations: "Korea",
+        // locationIcon: <i className="fas fa-map-marker-alt"></i>,
+        // location: '66 Broklyant, New York America',
+        // amenities: [
+        //     {
+        //         icon: <i className="fas fa-bed"></i>,
+        //         text: '4 Beds',
+        //     },
+        //     {
+        //         icon: <i className="fas fa-bath"></i>,
+        //         text: ' 3 Baths ',
+        //     }
+        // ],
+        // btnText: 'Book Now',
+        // dataSort: 'Best Match',
+        // dataStatuses: 'Rent',
+        // dataTypes: 'Office',
+        // dataLocations: "Korea",
     },
     {
         id: 4,
         thumb: propertyThumb4,
-        price: '$600.00',
-        day: '/per day',
-        title: 'Home is Where Your Story Begins ',
+        // price: '$600.00',
+        // day: '/per day',
+        title: 'Roller Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
-        locationIcon: <i className="fas fa-map-marker-alt"></i>,
-        location: '66 Broklyant, New York America',
-        amenities: [
-            {
-                icon: <i className="fas fa-bed"></i>,
-                text: '5 Beds',
-            },
-            {
-                icon: <i className="fas fa-bath"></i>,
-                text: ' 4 Baths ',
-            }
-        ],
-        btnText: 'Book Now',
-        dataSort: 'Low Price',
-        dataStatuses: 'Sell',
-        dataTypes: 'Villa',
-        dataLocations: "Singapore",
+        // locationIcon: <i className="fas fa-map-marker-alt"></i>,
+        // location: '66 Broklyant, New York America',
+        // amenities: [
+        //     {
+        //         icon: <i className="fas fa-bed"></i>,
+        //         text: '5 Beds',
+        //     },
+        //     {
+        //         icon: <i className="fas fa-bath"></i>,
+        //         text: ' 4 Baths ',
+        //     }
+        // ],
+        // btnText: 'Book Now',
+        // dataSort: 'Low Price',
+        // dataStatuses: 'Sell',
+        // dataTypes: 'Villa',
+        // dataLocations: "Singapore",
     },
     {
         id: 5,
         thumb: propertyThumb5,
-        price: '$650.00',
-        day: '/per day',
-        title: 'Building Trust, One Home at a Time',
+        // price: '$650.00',
+        // day: '/per day',
+        title: 'Chick blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
-        locationIcon: <i className="fas fa-map-marker-alt"></i>,
-        location: '66 Broklyant, New York America',
-        amenities: [
-            {
-                icon: <i className="fas fa-bed"></i>,
-                text: '6 Beds',
-            },
-            {
-                icon: <i className="fas fa-bath"></i>,
-                text: ' 4 Baths ',
-            }
-        ],
-        btnText: 'Book Now',
-        dataSort: 'High Price',
-        dataStatuses: 'Buy',
-        dataTypes: 'Houses',
-        dataLocations: "Germany",
+        // locationIcon: <i className="fas fa-map-marker-alt"></i>,
+        // location: '66 Broklyant, New York America',
+        // amenities: [
+        //     {
+        //         icon: <i className="fas fa-bed"></i>,
+        //         text: '6 Beds',
+        //     },
+        //     {
+        //         icon: <i className="fas fa-bath"></i>,
+        //         text: ' 4 Baths ',
+        //     }
+        // ],
+        // btnText: 'Book Now',
+        // dataSort: 'High Price',
+        // dataStatuses: 'Buy',
+        // dataTypes: 'Houses',
+        // dataLocations: "Germany",
     },
     {
         id: 6,

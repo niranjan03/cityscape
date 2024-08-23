@@ -6,6 +6,8 @@ import Cta from '../components/Cta';
 import ProjectDetailsSection from '../components/ProjectDetailsSection';
 import { useParams } from 'react-router-dom';
 import PageTitle from '../common/PageTitle';
+import OffCanvas  from '../common/OffCanvas';
+import MobileMenu  from '../common/MobileMenu';
 
 const ProjectDetails = () => {
 
@@ -13,29 +15,31 @@ const ProjectDetails = () => {
 
     return (
         <>
-        <PageTitle title="CityScape - Project Details" />
+        <PageTitle title="New Jyoti Decor - Blinds" />
+        <OffCanvas/>
+            <MobileMenu/>
 
         <main className="body-bg">
             
             {/* Header */}
             <Header 
-                headerClass="dark-header has-border" 
-                logoBlack={false}
-                logoWhite={true}
-                headerMenusClass="mx-auto"
-                btnClass="btn btn-outline-main btn-outline-main-dark d-lg-block d-none"
+                headerClass="" 
+                logoBlack={true}
+                logoWhite={false}
+                headerMenusClass=""
+                btnClass="btn btn-main  d-lg-block d-none"
                 btnLink="/add-new-listing"
                 btnText="Add Listing"
-                spanClass="icon-right text-gradient" 
-                showHeaderBtn={true}
-                showOffCanvasBtn={false}
+                spanClass="icon-right" 
+                showHeaderBtn={false}
+                showOffCanvasBtn={true}
                 offCanvasBtnClass=""
-                showContactNumber={false}
+                showContactNumber={true}
             />
 
             {/* BreadCrumb */}
             <Breadcrumb 
-                pageTitle="Products Details"
+                pageTitle="Blinds"
                 pageName={title}
             />
 

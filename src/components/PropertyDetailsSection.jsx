@@ -26,7 +26,7 @@ const PropertyDetailsSection = () => {
                         <p className="property-details__desc">{location.state.desc.slice(179, 400)}</p>
 
                         <div className="property-details-wrapper">
-                            <div className="property-details-item">
+                            {/* <div className="property-details-item">
                                 <h6 className="property-details-item__title">Preview</h6>
                                 <div className="property-details-item__content">
                                     <div className="row gy-4 gy-lg-5">
@@ -49,7 +49,7 @@ const PropertyDetailsSection = () => {
                                         }
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
                             <div className="property-details-item">
                                 <h6 className="property-details-item__title">Features</h6>
@@ -90,7 +90,7 @@ const PropertyDetailsSection = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="property-details-item">
+                            {/* <div className="property-details-item">
                                 <h6 className="property-details-item__title">Address</h6>
                                 <div className="property-details-item__content">
                                     <div className="row gy-4">
@@ -111,7 +111,7 @@ const PropertyDetailsSection = () => {
                                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1150112.1628856962!2d44.64619029447154!3d23.086651461779507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348a67e24b%3A0xff45e502e1ceb7e2!2sBurj%20Khalifa!5e0!3m2!1sen!2sbd!4v1707037970965!5m2!1sen!2sbd" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>  */}
                             <div className="property-details-item">
                                 <h6 className="property-details-item__title">House</h6>
                                 <div className="property-details-item__content">

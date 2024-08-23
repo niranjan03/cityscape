@@ -7,11 +7,18 @@ import AboutThree from '../components/AboutThree';
 import PropertyTypeThree from '../components/PropertyTypeThree';
 import Team from '../components/Team';
 import PageTitle from '../common/PageTitle';
+import MessageThree from '../components/MessageThree';
+import MobileMenu from '../common/MobileMenu';
+import OffCanvas from '../common/OffCanvas';
+
 
 const AboutUs = () => {
     return (
         <>
-            <PageTitle title="CityScape - About Us" />
+            <PageTitle title="New Jyoti Decor - About Us" />
+            <OffCanvas/>
+            <MobileMenu/>
+
             {/* Header */}
             <Header 
                 headerClass="" 
@@ -36,12 +43,13 @@ const AboutUs = () => {
 
             <AboutThree/>    
 
-            <Team/>
+            {/* <Team/> */}
 
             <PropertyTypeThree/> 
+            <MessageThree/>
 
             {/* Cta */}
-            <Cta ctaClass=""/>
+             <Cta ctaClass=""/> 
 
             {/* Footer */}
             <Footer/>

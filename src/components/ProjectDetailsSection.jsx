@@ -27,8 +27,9 @@ const ProjectDetailsSection = () => {
                             </div>
                             <div className="project-details__content">
                                 <h2 className="project-details__title">{location.state.title}</h2>
-                                <p className="project-details__desc font-18">{location.state.desc.slice(0, 250)}</p>
-                                <p className="project-details__desc font-18">{location.state.desc.slice(251, 900)}</p>
+                                <p className="project-details__desc font-18">{location.state.desc.slice(0, 900)}</p>
+                                {/* <p className="project-details__desc font-18">{location.state.desc.slice(0, 250)}</p>
+                                <p className="project-details__desc font-18">{location.state.desc.slice(251, 900)}</p> */}
                                 
                                 <h6 className="border-title">Project challeng</h6>
                                 <p className="project-details__desc font-18">Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis  viverra laoreet augue mattis ferment ullamcorer viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper ere viverra .Aliquam eros justo, posuere lobortis non, viverra Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere </p>

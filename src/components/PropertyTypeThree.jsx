@@ -11,11 +11,11 @@ const PropertyTypeThree = () => {
 
                     <SectionHeading
                         headingClass="style-left"  
-                        subtitle="Property Type"
+                        subtitle="Characteristics of New Jyoti Decor Blinds"
                         subtitleClass="bg-white" 
-                        title="Investing in real estate made it lot easy" 
+                        title="" 
                         renderDesc={false}
-                        desc="Real estate is a lucrative industry that involves the buying selling and renting of properties. It encompasses residential commercial and industrial properties Real estate agents play a crucial role in facilitating real estate"
+                        desc=""
                         renderButton={false}
                         buttonClass="btn-main"
                         buttonText="View More"

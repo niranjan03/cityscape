@@ -11,10 +11,11 @@ const PropertyDetails = () => {
 
     const {title} = useParams(); 
     
+    
     return (
         <>
         <PageTitle title="CityScape - Property Details" />
-
+        
             {/* Header */}
             <Header 
                 headerClass="dark-header has-border" 
@@ -33,7 +34,7 @@ const PropertyDetails = () => {
 
             {/* BreadCrumb */}
             <Breadcrumb 
-                pageTitle="Property Details"
+                pageTitle="Window Curtain Details"
                 pageName={title}
             />
 
@@ -41,7 +42,7 @@ const PropertyDetails = () => {
             <PropertyDetailsSection/>
 
             {/* Cta */}
-            <Cta ctaClass=""/>
+            {/* <Cta ctaClass=""/> */}
 
             {/* Footer */}
             <Footer/>

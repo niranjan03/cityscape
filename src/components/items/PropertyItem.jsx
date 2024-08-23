@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { PropertyFilterContext } from '../../contextApi/PropertyFilterContext';
 
+
 const PropertyItem = ({ property, itemClass, iconsClass, btnClass, badgeText, badgeClass, btnRenderBottom, btnRenderRight}) => {
 
     const { thumb, price, day, title, desc, locationIcon, location, amenities,  btnText, dataSort, dataStatuses, dataTypes, dataLocations } = property; 

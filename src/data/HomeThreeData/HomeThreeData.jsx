@@ -1,7 +1,7 @@
 import React from 'react'; 
 
 // Banner Three
-import BannerThreeThumb from '../../../public/assets/images/thumbs/banner-three.png'
+import BannerThreeThumb from '../../../public/assets/images/thumbs/banner-new.png'
 export const bannerThreeContent = {
     subtitle: 'Stylish Curtains',
     title: 'Curtains That Reflect Your ',
@@ -15,19 +15,19 @@ export const bannerThreeContent = {
 export const aboutCheckLists = [
     {
         icon: <i className="fas fa-check"></i>,
-        text: 'Dream Property Solutions'
+        text: 'Expert Craftsmanship'
     },
     {
         icon: <i className="fas fa-check"></i>,
-        text: ' Prestige Property Management'
+        text: ' Diverse Selection'
     },
     {
         icon: <i className="fas fa-check"></i>,
-        text: 'Secure Property Partners'
+        text: 'Custom Solutions'
     },
     {
         icon: <i className="fas fa-check"></i>,
-        text: 'Global Real Estate Investments'
+        text: 'Durability and Functionality'
     },
 ]
 
@@ -42,46 +42,46 @@ import propertyThreeTypeIcon6 from '../../../public/assets/images/icons/ppty-typ
 export const propertyThreeTypes = [ 
     {
         icon: propertyThreeTypeIcon1,
-        title: 'Prestige Management',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
+        title: 'Premium Quality Fabric',
+        desc: 'Our exclusive collection of satin finish Roman Blinds is crafted using a single, high-quality polyester fabric, ensuring the finest in both style and durability.',
+        // btnText: 'MORE ABOUT ',
+        // btnLink: '/property'
     },
     {
         icon: propertyThreeTypeIcon2,
-        title: 'Prime Investments',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
+        title: 'Endless Style Possibilities',
+        desc: 'Dive into our versatile collection, featuring a spectrum of styles, from contemporary and understated to timelessly elegant, allowing you to harmonize with your unique decor.',
+        // btnText: 'MORE ABOUT ',
+        // btnLink: '/property'
     },
     {
         icon: propertyThreeTypeIcon3,
-        title: 'Smart House Agency',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
+        title: 'Tailored Sizing',
+        desc: 'Discover the ideal fit for your windows with our customizable size options, available in widths ranging from 2 to 4 feet and lengths from 4 to 7 feet. Our width options increment by 0.5 feet or 6 inches, while height options increase by 1 foot or 12 inches, ensuring a flawless fit for your home.',
+        // btnText: 'MORE ABOUT ',
+        // btnLink: '/property'
     },
-    {
-        icon: propertyThreeTypeIcon4,
-        title: 'Reliable Rentals',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
-    },
-    {
-        icon: propertyThreeTypeIcon5,
-        title: 'Golden Key Properties',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
-    },
-    {
-        icon: propertyThreeTypeIcon6,
-        title: 'Swift Home Sales',
-        desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
-        btnText: 'MORE ABOUT ',
-        btnLink: '/property'
-    },
+    // {
+    //     icon: propertyThreeTypeIcon4,
+    //     title: 'Reliable Rentals',
+    //     desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
+    //     btnText: 'MORE ABOUT ',
+    //     btnLink: '/property'
+    // },
+    // {
+    //     icon: propertyThreeTypeIcon5,
+    //     title: 'Golden Key Properties',
+    //     desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
+    //     btnText: 'MORE ABOUT ',
+    //     btnLink: '/property'
+    // },
+    // {
+    //     icon: propertyThreeTypeIcon6,
+    //     title: 'Swift Home Sales',
+    //     desc: 'Real estate is a lucrative ind involves the buying selling and reproperties. It encompa',
+    //     btnText: 'MORE ABOUT ',
+    //     btnLink: '/property'
+    // },
 ]
 
 
@@ -110,7 +110,7 @@ import messageThreeIcon from '../../../public/assets/images/icons/customer-servi
 export const messageThreeContents = {
     icon: messageThreeIcon,
     text: 'Need help?',
-    number: '(307) 555-0133',
+    number: '9833270303 / 9769623317',
     desc: 'Real estate is a lucrative ind involves the selling and a reproperties. It encompasses residential'
 }
 

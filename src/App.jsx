@@ -32,7 +32,7 @@ import Register from './pages/Register';
 import NotFound from './pages/NotFound';
 import Gallery from './pages/GalleryView';
 import WhatsAppIcon from './common/WhatappIcon';
-import Product from './pages/Product';
+import Blinds from './pages/Blinds';
 
 function App() {
   return (
@@ -64,7 +64,8 @@ function App() {
           <Route path="/blog" element={<BlogClassic />} />
           <Route path="/blog/:title" element={<BlogDetails />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path='/Product' element={<Product />} />
+          <Route path='/Blinds' element={<Blinds />} />
+          <Route path='/Blinds/:title' element={<ProjectDetails />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

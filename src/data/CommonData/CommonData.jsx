@@ -66,12 +66,12 @@ export const topHeaderInfos = [
     {
         icon: <i className="fas fa-phone"></i>,
         text: '9833270303',
-        link: 'tel:'
+        link: 'tel:+91 9833270303'
     },
     {
         icon: <i className="fas fa-envelope"></i>,
         text: 'vidyrathipathak@gmail.com',
-        link: 'mailto:'
+        link: 'mailto:vidyrathipathak@gmail.com'
     },
     {
         icon: <i className="fas fa-map-marker-alt"></i>,
@@ -85,46 +85,46 @@ export const topHeaderInfos = [
 export const navMenus = [
     {
       text: "Home",
-      path: "#",
-      submenus: [
-        {
-            text: "Home One",
-            path: "/",
-        },
-        {
-            text: "Home Two",
-            path: "/home-two",
-        },
-        {
-            text: "Home Three",
-            path: "/home-three",
-        },
-        {
-            text: "Home Four",
-            path: "/home-four",
-        },
-        {
-            text: "Home Five",
-            path: "/home-five",
-        },
-        {
-            text: "Home Six",
-            path: "/home-six",
-        },
-        {
-            text: "Home Seven",
-            path: "/home-seven",
-        },
-      ],
+      path: "/",
+    //   submenus: [
+    //     {
+    //         text: "Home One",
+    //         path: "/",
+    //     },
+    //     {
+    //         text: "Home Two",
+    //         path: "/home-two",
+    //     },
+    //     {
+    //         text: "Home Three",
+    //         path: "/home-three",
+    //     },
+    //     {
+    //         text: "Home Four",
+    //         path: "/home-four",
+    //     },
+    //     {
+    //         text: "Home Five",
+    //         path: "/home-five",
+    //     },
+    //     {
+    //         text: "Home Six",
+    //         path: "/home-six",
+    //     },
+    //     {
+    //         text: "Home Seven",
+    //         path: "/home-seven",
+    //     },
+    //   ],
     },
     {
         text: "About Us",
-        path: "/about-us",
+        path: "/About-us",
       
     },
     {
-      text: "Product",
-      path: "/product",
+      text: "Blinds",
+      path: "/Blinds",
     },
     {
         text: "Gallery",
@@ -136,7 +136,7 @@ export const navMenus = [
     // },
     {
       text: "Contact",
-      path: "/contact",
+      path: "/Contact",
     },
     
 ]
@@ -148,54 +148,54 @@ export const footerInfos = [
     {
         icon: <i className="fas fa-map-marker-alt"></i>,
         text: 'Address',
-        address: '66 Broklyant, New York India'
+        address: 'Room No 146, near ambemata mandir, Rohidas nagar, sukarwadi, m.g. road, borivali east, mumbai - 66'
     },
     {
         icon: <i className="fas fa-phone"></i>,
         text: 'Phone Number',
-        address: '012 345 678 9101'
+        address: '9833270303 / 9769623317'
     }
 ]
 
 export const footerServiceLinks = [ 
     {
-        text: 'Venetian Blinds',
-        link: '/property'
+        text: 'Monsoon Blinds',
+        link: '/Blinds'
     },
-    {
-        text: 'Verical Blinds',
-        link: '/property'
-    },
+    // {
+    //     text: 'Verical Blinds',
+    //     link: '/Blinds'
+    // },
     {
         text: 'Roman Blinds',
-        link: '/property'
+        link: '/Blinds'
     },
     {
         text: 'Roller Blinds',
-        link: '/property'
+        link: '/Blinds'
     },
     {
         text: 'Chick blinds',
-        link: '/property'
+        link: '/Blinds'
     },
 ]
 
 export const footerUsefulLinks = [ 
     {
         text: 'About Us',
-        link: '/about-us'
+        link: '/About-us'
     },
     {
-        text: 'Product',
-        link: '/project'
+        text: 'Blinds',
+        link: '/Blinds'
     },
     {
         text: 'Gallery',
-        link: '/gallery'
+        link: '/Gallery'
     },
     {
         text: 'Contact',
-        link: '/contact'
+        link: '/Contact'
     },
 ]
 

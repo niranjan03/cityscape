@@ -19,7 +19,7 @@ const ProjectSection = () => {
                                 const {id, thumb, title, desc} = projectItem; 
 
                                 // Generate dynamic URL based on the property title
-                                const projectURL = `/project/${encodeURIComponent(convertToSlug(title))}`;
+                                const projectURL = `/Blinds/${encodeURIComponent(convertToSlug(title))}`;
                                 
                                 return (
                                     <div className={`col-md-4 col-sm-6 col-xs-6`} key={projectItemIndex}>

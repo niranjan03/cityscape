@@ -4116,6 +4116,9 @@ button.slick-next {
     font-size: 1.125rem;
     color: hsl(var(--white));
 }
+.breadcrumb__item span{
+    text-transform: capitalize;
+}
 
 @media screen and (max-width: 991px) {
     .breadcrumb__item {
