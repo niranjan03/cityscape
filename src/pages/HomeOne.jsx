@@ -65,7 +65,7 @@ const HomeOne = () => {
                 <MessageThree/>
 
                 {/* Testimonial Three */}
-                <TestimonialThree/>
+                {/* <TestimonialThree/> */}
 
                 
 
