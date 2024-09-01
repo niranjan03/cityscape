@@ -15,6 +15,9 @@ import MessageTwo from '../components/MessageTwo';
 import BlogTwo from '../components/BlogTwo';
 import Footer from '../common/Footer';
 import PageTitle from '../common/PageTitle';
+import VideoPopup from '../components/VideoPopup';
+import Video from '../components/Video';
+import NewVideo from '../../public/assets/video/video1.mp4'
 
 
 const GalleryView = () => {
@@ -54,6 +57,11 @@ const GalleryView = () => {
 
                 {/* Gallery */}
                 <Gallery/>
+
+                {/* <Video src={NewVideo} width="640" height="360" controls/>
+               
+
+                <VideoPopup/> */}
 
                 {/* Footer */}
                 <Footer/>

@@ -6109,7 +6109,8 @@ button.slick-next {
 @media (min-width: 992px) {
     .banner-three .banner-thumb {
         top: auto;
-        bottom: 34px;
+        bottom: 10px;
+        /* bottom: 34px; */
         display: flex;
         align-items: center;
     }

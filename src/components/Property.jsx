@@ -14,11 +14,11 @@ const Property = () => {
     return (
         <>
             {/* ============================ property Start ==================== */}
-            <section className="property padding-y-120">
+            <section className="property bg-gray-100 padding-y-50">
                 <div className="container container-two">
 
                     <SectionHeading 
-                        headingClass="style-left style-dark flx-between align-items-end gap-3"  
+                        headingClass="style-left flx-between align-items-end gap-3"  
                         subtitle="Customization Options"
                         subtitleClass="bg-white" 
                         title="We offer extensive customization options for our Blinds" 

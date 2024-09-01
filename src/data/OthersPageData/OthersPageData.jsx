@@ -997,35 +997,52 @@ export const propertyTables = [
 
 
 // ========================= Project Page Data End =========================
-import projectItemThumb1 from '../../../public/assets/images/img/Rolling-blind.png';
+import projectItemThumb1 from '../../../public/assets/images/img/Roller-blinds.png';
 import projectItemThumb2 from '../../../public/assets/images/img/Monsoon-blind.png';
 import projectItemThumb3 from '../../../public/assets/images/img/Chick-blind.png';
-import projectItemThumb4 from '../../../public/assets/images/img/Roman-blind.png';
+import projectItemThumb4 from '../../../public/assets/images/img/Roman-blinds.png';
+import projectItemThumb5 from '../../../public/assets/images/img/Venetian-blinds.png'
+import projectItemThumb6 from '../../../public/assets/images/img/Verical-blinds.png';
+
+
 export const projectItems = [
     {
         id: 1,
-        thumb: projectItemThumb1,
-        title: 'Roller Blinds',
-        desc: 'Roller Blinds are a sleek, minimalist window treatment that rolls up neatly when not in use, providing a clean, unobtrusive look. Available in a wide array of fabrics, including blackout, light-filtering, and sheer options, they cater to various lighting and privacy needs. Their simple design makes them versatile, fitting seamlessly into any décor, from modern to traditional. Roller Blinds are easy to operate and maintain, offering both functionality and style. Whether you want to block out light completely or gently diffuse it, these blinds provide a practical, elegant solution for any room in your home.',
+        thumb: projectItemThumb5,
+        title: 'Venetian Blind',
+        desc: 'Venetian Blinds are a classic choice for homeowners seeking versatile and stylish window coverings. With adjustable horizontal slats, these blinds offer precise control over light and privacy, making them perfect for any room. Available in materials like aluminum, wood, and faux wood, Venetian Blinds complement a variety of interior styles, from modern to traditional. Their durable construction ensures longevity, while their sleek design enhances the overall aesthetic of your space. Easy to clean and maintain, Venetian Blinds provide a functional, attractive solution that balances form and function for both homes and offices.',
     },
     {
         id: 2,
-        thumb: projectItemThumb2,
-        title: 'Monsoon Blinds',
-        desc: 'Monsoon Blinds are specifically designed to withstand harsh weather conditions, particularly during the rainy season. Made from water-resistant and durable materials like PVC or heavy-duty fabric, these blinds protect your outdoor spaces such as balconies, patios, and verandas from rain, wind, and debris. They are easy to roll up when not in use and can be quickly deployed during unexpected downpours. Monsoon Blinds also help in maintaining visibility and light while keeping the area dry, making them a practical and stylish solution for maintaining outdoor comfort and functionality throughout the rainy season.',
+        thumb: projectItemThumb6,
+        title: 'Verical Blinds',
+        desc: 'Vertical Blinds are ideal for covering large windows and sliding doors, offering a sleek and modern aesthetic. Featuring easy-to-operate vertical slats that glide smoothly, these blinds provide excellent light control and privacy. Available in a variety of colors, materials, and textures, Vertical Blinds can complement contemporary and minimalist interior designs. Their durable, easy-to-clean construction makes them perfect for high-traffic areas, such as living rooms, offices, or commercial spaces. Vertical Blinds offer a practical, stylish solution that enhances natural light while maintaining an elegant look, creating a polished, functional space.',
     },
     {
         id: 3,
-        thumb: projectItemThumb3,
-        title: 'Chick Blinds',
-        desc: 'Chick Blinds, also known as bamboo or woven wood blinds, introduce a natural, rustic element to your décor with their eco-friendly materials and organic textures. These blinds are crafted from sustainable resources like bamboo, reeds, or jute, offering an earthy, warm aesthetic that complements bohemian, coastal, or rustic interiors. Chick Blinds provide light filtering that creates a soft, ambient glow, while still maintaining privacy. Their unique, handcrafted appearance adds character and depth to any space, making them an excellent choice for those who appreciate natural beauty and sustainable living in their home design.',
+        thumb: projectItemThumb1,
+        title: 'Roller Blinds',
+        desc: 'Roller Blinds are known for their sleek, minimalist design and versatile functionality. Available in a variety of fabrics, including blackout, light-filtering, and sheer, these blinds cater to diverse lighting needs and décor styles. Roller Blinds are easy to operate, rolling up neatly when not in use, which maximizes window space and allows for a clean, modern look. Ideal for bedrooms, kitchens, and offices, these blinds offer both style and practicality. Their simple, customizable design makes them a perfect choice for those seeking a straightforward, efficient solution that complements any interior.',
     },
     {
         id: 4,
         thumb: projectItemThumb4,
         title: 'Roman Blinds',
-        desc: 'Roman Blinds bring a touch of sophistication to any room with their elegant fabric folds that create a soft, layered look when raised. Available in a wide range of fabrics, from light-filtering to blackout, these blinds offer excellent control over light and privacy while adding a decorative element to your windows. Roman Blinds combine the luxurious feel of drapery with the practicality of shades, making them a versatile choice for both casual and formal settings. Their customizability allows you to choose patterns, colors, and textures that perfectly complement your décor, creating a cozy, refined atmosphere.',
+        desc: 'Roman Blinds bring timeless elegance to any home with their soft, cascading fabric folds. These blinds are available in a wide range of fabrics, from light-filtering to blackout options, providing excellent control over light and privacy. Roman Blinds combine the luxurious feel of drapery with the functionality of shades, making them a versatile choice for both casual and formal settings. Customizable in various patterns, colors, and textures, they perfectly complement any décor style. Their refined appearance adds sophistication to bedrooms, living rooms, and dining areas, creating a cozy, elegant ambiance.',
     },
+    {
+        id: 5,
+        thumb: projectItemThumb2,
+        title: 'Monsoon Blinds',
+        desc: 'Monsoon Blinds are specifically designed to protect outdoor areas like balconies, patios, and verandas from heavy rain and harsh weather. Made from high-quality, water-resistant materials such as PVC or tough fabrics, these blinds provide a robust shield while allowing visibility and airflow. They are easy to roll up when not in use and can be quickly deployed during sudden downpours, making them highly practical for monsoon-prone regions. Monsoon Blinds are perfect for maintaining outdoor comfort, combining durability with style, ensuring your outdoor spaces remain dry, clean, and functional throughout the rainy season.',
+    },
+    {
+        id: 6,
+        thumb: projectItemThumb3,
+        title: 'Chick Blinds',
+        desc: 'Chick Blinds, also known as bamboo or woven wood blinds, offer a natural, rustic appeal with their eco-friendly materials. Made from sustainable resources like bamboo, reeds, or jute, these blinds provide an earthy texture that adds warmth to any room. Chick Blinds are perfect for creating a bohemian, coastal, or nature-inspired aesthetic, allowing soft, diffused light to enter while maintaining privacy. They add a unique, handcrafted look to living spaces, sunrooms, and patios. Durable and easy to maintain, Chick Blinds are an excellent choice for those who value sustainability and natural beauty in home décor.',
+    },
+    
     // {
     //     id: 5,
     //     thumb: projectItemThumb1,
