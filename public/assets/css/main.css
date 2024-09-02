@@ -8713,3 +8713,12 @@ p.account-alert:last-child {
     }
 }
 /*# sourceMappingURL=main.css.map */
+
+.project-white{
+    padding: 2rem;
+    
+    margin-bottom: 2rem;
+    height: max-content;
+    width: 100%;
+    position: absolute;
+}

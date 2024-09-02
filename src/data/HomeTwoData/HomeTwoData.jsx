@@ -244,10 +244,20 @@ export const floorTabPanels= [
 
 
 // Gallery Data
-import galleryImage1 from '../../../public/assets/images/img/roman-gallery.png'
-import galleryImage2 from '../../../public/assets/images/img/monsoon-gallery.png'
-import galleryImage3 from '../../../public/assets/images/img/chick-gallery.png'
+import galleryImage1 from '../../../public/assets/images/img/monsoon-gallery2.png'
+import galleryImage2 from '../../../public/assets/images/img/roman-gallery.png'
+import galleryImage3 from '../../../public/assets/images/img/roman-gallery1.png'
 import galleryImage4 from '../../../public/assets/images/img/roller-gallery.png'
+import galleryImage5 from '../../../public/assets/images/img/Venetian-gallery.png'
+import galleryImage6 from '../../../public/assets/images/img/Verical-gallery.png'
+import galleryImage7 from '../../../public/assets/images/img/chick-gallery.png'
+import galleryImage8 from '../../../public/assets/images/img/Venetian-gallery1.png'
+import galleryImage9 from '../../../public/assets/images/img/roller-gallery1.png'
+import galleryImage10 from '../../../public/assets/images/img/Verical-gallery1.png'
+import galleryImage11 from '../../../public/assets/images/img/monsoon-gallery.png'
+import galleryImage12 from '../../../public/assets/images/img/chick-gallery1.png'
+import galleryImage13 from '../../../public/assets/images/img/monsoon-gallery1.png'
+
 export const galleries= [
     {
         image: galleryImage1,
@@ -269,6 +279,54 @@ export const galleries= [
         link: 'galleryImage4',
         icon: <i className="fas fa-expand-alt"></i>
     },
+    {
+        image: galleryImage5,
+        link: 'galleryImage5',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage6,
+        link: 'galleryImage6',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage7,
+        link: 'galleryImage7',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+
+    {
+        image: galleryImage8,
+        link: 'galleryImage8',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage9,
+        link: 'galleryImage9',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage10,
+        link: 'galleryImage10',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage11,
+        link: 'galleryImage11',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage12,
+        link: 'galleryImage12',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    {
+        image: galleryImage13,
+        link: 'galleryImage13',
+        icon: <i className="fas fa-expand-alt"></i>
+    },
+    
+
 ]
 
 

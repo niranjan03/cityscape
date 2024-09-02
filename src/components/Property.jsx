@@ -5,6 +5,7 @@ import { properties } from '../data/HomeOneData/HomeOneData';
 import Button from '../common/Button';
 import { Link } from 'react-router-dom';
 import { projectItems } from '../data/OthersPageData/OthersPageData';
+import '../../public/assets/css/main.css'
 
 
 const Property = () => {
@@ -43,6 +44,11 @@ const Property = () => {
                                     <div className={`col-md-4 col-sm-6 col-xs-6`} key={projectItemIndex}>
                                         <div className="project-page-thumb">
                                             <img src={thumb} alt="" className="cover-img"/>
+                                            <div className='project-white'>
+                                            <h6 className="project-page-content__title">
+                                                    <Link to={projectURL} state={{ id, title, thumb, desc }} className="link">{title}</Link>
+                                                </h6>
+                                            </div>
                                             <div className="project-page-content">
                                                 <h6 className="project-page-content__title">
                                                     <Link to={projectURL} state={{ id, title, thumb, desc }} className="link">{title}</Link>

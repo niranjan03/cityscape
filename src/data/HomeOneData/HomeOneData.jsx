@@ -407,32 +407,46 @@ export const counts = [
 
 
 // portfolio  Data
-import portfolioThumb1 from '../../../public/assets/images/img/monsoon-pro.png'; 
-import portfolioThumb2 from '../../../public/assets/images/img/chick-pro.png'; 
+import portfolioThumb1 from '../../../public/assets/images/img/Venetian-pro.png'; 
+import portfolioThumb2 from '../../../public/assets/images/img/Verical-pro.png'; 
 import portfolioThumb3 from '../../../public/assets/images/img/roman-pro.png'; 
 import portfolioThumb4 from '../../../public/assets/images/img/roller-pro.png'; 
+import portfolioThumb5 from '../../../public/assets/images/img/monsoon-pro.png'; 
+import portfolioThumb6 from '../../../public/assets/images/img/chick-pro.png';
 export const portfolios = [
     {
         thumb: portfolioThumb1,
-        title: 'Outsourcing business',
+        title: 'Venetian Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
         btnIcon: <i className="fas fa-arrow-right"></i>
     },
     {
         thumb: portfolioThumb2,
-        title: 'Outsourcing business',
+        title: 'Verical Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
         btnIcon: <i className="fas fa-arrow-right"></i>
     },
     {
         thumb: portfolioThumb3,
-        title: 'Outsourcing business',
+        title: 'Roman Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
         btnIcon: <i className="fas fa-arrow-right"></i>
     },
     {
         thumb: portfolioThumb4,
-        title: 'Outsourcing business',
+        title: 'Roller Blinds',
+        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
+        btnIcon: <i className="fas fa-arrow-right"></i>
+    },
+    {
+        thumb: portfolioThumb5,
+        title: 'Monsoon Blinds',
+        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
+        btnIcon: <i className="fas fa-arrow-right"></i>
+    },
+    {
+        thumb: portfolioThumb6,
+        title: 'Chick Blinds',
         desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties',
         btnIcon: <i className="fas fa-arrow-right"></i>
     },

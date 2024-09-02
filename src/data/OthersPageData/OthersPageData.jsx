@@ -1092,6 +1092,14 @@ export const challengeLists = [
 
 export const projectSidebarLists = [
     {
+        text: 'Timeless Elegance with Adjustable Control',
+        title: 'Venetian Blinds',
+    },
+    {
+        text: 'Modern Solutions for Large Windows',
+        title: 'Verical Blinds',
+    },
+    {
         text: 'Soft Folds, Sophisticated Style',
         title: 'Roman Blinds'
     },

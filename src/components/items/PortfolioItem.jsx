@@ -9,19 +9,20 @@ const PortfolioItem = ({ portfolio }) => {
             <div className="portfolio-item__thumb">
                 <img src={thumb} alt="" className="cover-img"/>
             </div>
-            {/* <div className="portfolio-item__content">
-                <Link to="/portfolio-details" className="btn btn-icon"> 
+            <div className="portfolio-item__content">
+                {/* <Link to="/portfolio-details" className="btn btn-icon"> 
                     <span className="text-gradient line-height-0">
                         {btnIcon}
                     </span> 
-                </Link>
+                </Link> */}
                 <div className="portfolio-item__inner">
                     <h6 className="portfolio-item__title">
-                        <Link to="/portfolio-details" className="link">{title}</Link>
+                        {title}
+                        {/* <Link to="/portfolio-details" className="link">{title}</Link> */}
                     </h6>
-                    <p className="portfolio-item__desc">{desc}</p>
+                    {/* <p className="portfolio-item__desc">{desc}</p> */}
                 </div>
-            </div> */}
+            </div> 
         </div>    
     );
 };

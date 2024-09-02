@@ -17,7 +17,7 @@ import Footer from '../common/Footer';
 import PageTitle from '../common/PageTitle';
 import VideoPopup from '../components/VideoPopup';
 import Video from '../components/Video';
-import NewVideo from '../../public/assets/video/video1.mp4'
+
 
 
 const GalleryView = () => {
