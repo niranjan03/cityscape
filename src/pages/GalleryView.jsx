@@ -18,12 +18,18 @@ import PageTitle from '../common/PageTitle';
 import VideoPopup from '../components/VideoPopup';
 import Video from '../components/Video';
 import GallerySlider from '../components/GallerySlider';
+import { Helmet } from 'react-helmet';
 
 
 
 const GalleryView = () => {
     return (
         <>
+        <Helmet>
+        <title>Our Stunning Blinds and Shades Gallery</title>
+            <meta name="description" content="Explore our gallery of beautiful blinds and shades installations. See how our products can transform your home's look and feel." />
+            <link rel="canonical" href="https://newjyotidecor.com/Gallery" />
+        </Helmet>
         
         <PageTitle title="Gallery - New Jyoti Decor" />
             

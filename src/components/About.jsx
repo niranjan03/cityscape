@@ -2,17 +2,13 @@ import React from 'react';
 import { aboutContent, aboutStatistics } from '../data/HomeOneData/HomeOneData';
 import Button from '../common/Button';
 import SectionHeading from '../common/SectionHeading';
-import { Helmet } from 'react-helmet';
 
 import CountUp from 'react-countup';
 
 const About = () => {
     return (
         <>
-        <Helmet>
-        <title>My Page Title</title>
-        <meta name="description" content="This is a description of my page" />
-        </Helmet>
+        
             {/* ======================== About Section Start ========================== */}
             <section className="about padding-y-120">
                 <div className="container container-two">

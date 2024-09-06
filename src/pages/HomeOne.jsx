@@ -18,10 +18,16 @@ import PageTitle from '../common/PageTitle';
 import Portfolio from '../components/Portfolio';
 import About from '../components/About';
 import Property from '../components/Property';
+import { Helmet } from 'react-helmet';
 
 const HomeOne = () => {
     return (
         <>
+        <Helmet>
+            <title>New Jyoti Decor: Your Trusted Source for Custom Blinds and Shades</title>
+            <meta name="description" content="Discover a wide range of high-quality blinds and shades to elevate your home's style and functionality. Explore our collection of Venetian, vertical, Roman, roller, and chick blinds today." />
+            <link rel="canonical" href="https://newjyotidecor.com" />
+        </Helmet>
         
         <PageTitle title="Home - New Jyoti Decor" />
             <OffCanvas/>

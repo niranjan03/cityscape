@@ -8,10 +8,16 @@ import ContactUsSection from '../components/ContactUsSection';
 import PageTitle from '../common/PageTitle';
 import OffCanvas from '../common/OffCanvas';
 import MobileMenu from '../common/MobileMenu';
+import { Helmet } from 'react-helmet';
 
 const Contact = () => {
     return (
         <>
+        <Helmet>
+            <title>Contact Us: Get in Touch with New Jyoti Decor</title>
+            <meta name="description" content="Have questions or ready to order? Contact us today for a free consultation or to request a quote." />
+            <link rel="canonical" href="https://newjyotidecor.com/Contact" />
+        </Helmet>
         <PageTitle title="Contact Us - New Jyoti Decor" />
         <OffCanvas/>
         <MobileMenu/>
