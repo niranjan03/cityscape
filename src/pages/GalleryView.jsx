@@ -17,6 +17,7 @@ import Footer from '../common/Footer';
 import PageTitle from '../common/PageTitle';
 import VideoPopup from '../components/VideoPopup';
 import Video from '../components/Video';
+import GallerySlider from '../components/GallerySlider';
 
 
 
@@ -57,6 +58,8 @@ const GalleryView = () => {
 
                 {/* Gallery */}
                 <Gallery/>
+
+                <GallerySlider />
 
                 {/* <Video src={NewVideo} width="640" height="360" controls/>
                

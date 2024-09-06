@@ -40,7 +40,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomeOne />} />
-          <Route path="/home-two" element={<HomeTwo />} />
+          {/* <Route path="/home-two" element={<HomeTwo />} />
           <Route path="/home-three" element={<HomeThree />} />
           <Route path="/home-four" element={<HomeFour />} />
           <Route path="/home-five" element={<HomeFive />} />
@@ -50,19 +50,19 @@ function App() {
           <Route path="/property-sidebar" element={<PropertySidebar />} />
           <Route path="/property/:title" element={<PropertyDetails />} />
           <Route path="/add-new-listing" element={<AddListing />} />
-          <Route path="/map-location" element={<MapLocation />} />
+          <Route path="/map-location" element={<MapLocation />} /> */}
           <Route path="/about-us" element={<AboutUs />} />
           <Route path='/Gallery' element={<Gallery />} />
-          <Route path="/faq" element={<FaqPage />} />
+          {/* <Route path="/faq" element={<FaqPage />} />
           <Route path="/checkout" element={<Checkout />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
-          <Route path="/account" element={<Account />} />
-          <Route path="/project" element={<Project />} />
+          <Route path="/account" element={<Account />} /> */}
+          {/* <Route path="/project" element={<Project />} />
           <Route path="/project/:title" element={<ProjectDetails />} />
           <Route path="/blog" element={<BlogClassic />} />
-          <Route path="/blog/:title" element={<BlogDetails />} />
+          <Route path="/blog/:title" element={<BlogDetails />} /> */}
           <Route path="/contact" element={<Contact />} />
           <Route path='/Blinds' element={<Blinds />} />
           <Route path='/Blinds/:title' element={<ProjectDetails />} />

@@ -1009,7 +1009,7 @@ export const projectItems = [
     {
         id: 1,
         thumb: projectItemThumb5,
-        title: 'Venetian Blind',
+        title: 'Venetian Blinds',
         desc: 'Venetian Blinds are a classic choice for homeowners seeking versatile and stylish window coverings. With adjustable horizontal slats, these blinds offer precise control over light and privacy, making them perfect for any room. Available in materials like aluminum, wood, and faux wood, Venetian Blinds complement a variety of interior styles, from modern to traditional. Their durable construction ensures longevity, while their sleek design enhances the overall aesthetic of your space. Easy to clean and maintain, Venetian Blinds provide a functional, attractive solution that balances form and function for both homes and offices.',
     },
     {

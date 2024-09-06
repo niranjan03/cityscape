@@ -246,12 +246,13 @@ export const floorTabPanels= [
 // Gallery Data
 import galleryImage1 from '../../../public/assets/images/img/monsoon-gallery2.png'
 import galleryImage2 from '../../../public/assets/images/img/roman-gallery.png'
-import galleryImage3 from '../../../public/assets/images/img/roman-gallery1.png'
-import galleryImage4 from '../../../public/assets/images/img/roller-gallery.png'
-import galleryImage5 from '../../../public/assets/images/img/Venetian-gallery.png'
-import galleryImage6 from '../../../public/assets/images/img/Verical-gallery.png'
-import galleryImage7 from '../../../public/assets/images/img/chick-gallery.png'
-import galleryImage8 from '../../../public/assets/images/img/Venetian-gallery1.png'
+
+import galleryImage3 from '../../../public/assets/images/img/roller-gallery.png'
+import galleryImage4 from '../../../public/assets/images/img/Venetian-gallery.png'
+import galleryImage5 from '../../../public/assets/images/img/Verical-gallery.png'
+import galleryImage6 from '../../../public/assets/images/img/chick-gallery.png'
+import galleryImage7 from '../../../public/assets/images/img/Venetian-gallery1.png'
+import galleryImage8 from '../../../public/assets/images/img/roman-gallery1.png'
 import galleryImage9 from '../../../public/assets/images/img/roller-gallery1.png'
 import galleryImage10 from '../../../public/assets/images/img/Verical-gallery1.png'
 import galleryImage11 from '../../../public/assets/images/img/monsoon-gallery.png'
@@ -329,6 +330,50 @@ export const galleries= [
 
 ]
 
+export const sildegallery=[
+    {
+        image: galleryImage1,
+    },
+    {
+        image: galleryImage2,
+    },
+    {
+        image: galleryImage3,
+    },
+    {
+        image: galleryImage4,
+    },
+    {
+        image: galleryImage5,
+    },
+    {
+        image: galleryImage6,
+    },
+]
+
+export const sildegallerys=[
+    {
+        image: galleryImage7,
+    },
+    {
+        image: galleryImage8,
+    },
+    {
+        image: galleryImage9,
+    },
+    {
+        image: galleryImage10,
+    },
+    {
+        image: galleryImage11,
+    },
+    {
+        image: galleryImage12,
+    },
+    {
+        image: galleryImage13,
+    },
+]
 
 // Counter Two Data
 export const counters= [ 
