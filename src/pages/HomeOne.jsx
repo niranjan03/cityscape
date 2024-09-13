@@ -29,7 +29,7 @@ const HomeOne = () => {
             <link rel="canonical" href="https://newjyotidecor.com" />
         </Helmet>
         
-        <PageTitle title="Home - New Jyoti Decor" />
+        <PageTitle title="New Jyoti Decor: Your Trusted Source for Custom Blinds and Shades" />
             <OffCanvas/>
             <MobileMenu/>
             

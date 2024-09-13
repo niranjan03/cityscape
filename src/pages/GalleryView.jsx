@@ -19,7 +19,7 @@ import VideoPopup from '../components/VideoPopup';
 import Video from '../components/Video';
 import GallerySlider from '../components/GallerySlider';
 import { Helmet } from 'react-helmet';
-
+import { galleries } from '../data/HomeTwoData/HomeTwoData';
 
 
 const GalleryView = () => {
@@ -31,7 +31,7 @@ const GalleryView = () => {
             <link rel="canonical" href="https://newjyotidecor.com/Gallery" />
         </Helmet>
         
-        <PageTitle title="Gallery - New Jyoti Decor" />
+        <PageTitle title="Our Stunning Blinds and Shades Gallery" />
             
             <OffCanvas/>
             <MobileMenu/>
@@ -63,7 +63,8 @@ const GalleryView = () => {
                 {/* <AboutTwo/> */}
 
                 {/* Gallery */}
-                <Gallery/>
+                <Gallery />
+                {/* <Gallerys/> */}
 
                 <GallerySlider />
 

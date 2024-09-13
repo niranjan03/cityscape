@@ -21,7 +21,7 @@ const AboutUs = () => {
                 <meta name="description" content=" Learn more about New Jyoti Decor, your trusted provider of custom blinds and shades. Discover our commitment to quality, customer satisfaction, and innovative design." />
                 <link rel="canonical" href="https://newjyotidecor.com/About-us" />
             </Helmet>
-            <PageTitle title="About Us - New Jyoti Decor" />
+            <PageTitle title="About New Jyoti Decor: Your Partner in Home Decor" />
             <OffCanvas/>
             <MobileMenu/>
 

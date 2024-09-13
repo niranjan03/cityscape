@@ -7,7 +7,7 @@ function WhatappIcon() {
     <div className="whatsapp-container">
       
       <a href="https://wa.me/+919833270303?text=Your%20message" target="_blank" rel="noopener noreferrer" className="btn  btn-floating">
-      <i class="fab fa-whatsapp"></i>
+      <i className="fab fa-whatsapp"></i>
       </a>
     </div>
   );

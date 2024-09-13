@@ -246,7 +246,6 @@ export const floorTabPanels= [
 // Gallery Data
 import galleryImage1 from '../../../public/assets/images/img/monsoon-gallery2.png'
 import galleryImage2 from '../../../public/assets/images/img/roman-gallery.png'
-
 import galleryImage3 from '../../../public/assets/images/img/roller-gallery.png'
 import galleryImage4 from '../../../public/assets/images/img/Venetian-gallery.png'
 import galleryImage5 from '../../../public/assets/images/img/Verical-gallery.png'
@@ -261,16 +260,19 @@ import galleryImage13 from '../../../public/assets/images/img/monsoon-gallery1.p
 
 export const galleries= [
     {
+        title: 'Monsoon Blinds',
         image: galleryImage1,
         link: 'galleryImage1',
         icon: <i className="fas fa-expand-alt"></i>
     },
     {
+        title:'Roman linds',
         image: galleryImage2,
         link: 'galleryImage2',
         icon: <i className="fas fa-expand-alt"></i>
     },
     {
+        title:'Roller Blinds',
         image: galleryImage3,
         link: 'galleryImage3',
         icon: <i className="fas fa-expand-alt"></i>

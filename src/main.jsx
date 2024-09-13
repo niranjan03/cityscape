@@ -9,6 +9,7 @@ import ScrollHideProvider from './contextApi/ScrollHideContext.jsx'
 import BlogDataProvider from './contextApi/BlogDataContext.jsx'
 import PropertyFilterProvider from './contextApi/PropertyFilterContext.jsx'
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <PropertyFilterProvider>
     <BlogDataProvider>

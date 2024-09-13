@@ -17,7 +17,7 @@ const Product = () => {
                 <meta name="description" content="Find the perfect blinds or shades to match your home's decor and lifestyle. Choose from Venetian, vertical, Roman, roller, and chick blinds in a variety of styles, materials, and colors." />
                 <link rel="canonical" href="https://newjyotidecor.com/Blinds" />
         </Helmet>
-        <PageTitle title="Blinds - New Jyoti Decor" />
+        <PageTitle title="Blinds and Shades: Custom Solutions for Your Home" />
         <OffCanvas/>
             <MobileMenu/>
 
